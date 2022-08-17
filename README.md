@@ -33,8 +33,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
-cd hardhat-simple-storage-fcc
+git clone https://github.com/fuujazz/Hardhat-Simple-Storage.git <folder name>
+cd <folder name>
 yarn
 yarn hardhat
 ```
