@@ -15,12 +15,6 @@
     - [Important localhost note](#important-localhost-note)
   - [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
     - [Verify on etherscan](#verify-on-etherscan)
-- [Linting](#linting)
-- [Thank you!](#thank-you)
-
-This project is apart of the Hardhat FreeCodeCamp video.
-
-Video coming soon...
 
 # Getting Started
 
@@ -44,21 +38,6 @@ cd hardhat-simple-storage-fcc
 yarn
 yarn hardhat
 ```
-
-## Typescript
-
-For the typescript edition, run:
-
-```
-git checkout typescript
-```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/hardhat-simple-storage-fcc)
-
 
 # Usage
 
@@ -142,14 +121,3 @@ However, you can manual verify with:
 npx hardhat verify --constructor-args arguments.js DEPLOYED_CONTRACT_ADDRESS
 ```
 
-# Linting
-
-To check linting / code formatting:
-```
-yarn lint
-```
-or, to fix: 
-```
-yarn lint:fix
-```
-# Hardhat-Simple-Storage
